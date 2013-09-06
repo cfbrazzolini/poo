@@ -1,4 +1,0 @@
-poo
-===
-
-exericios de poo
